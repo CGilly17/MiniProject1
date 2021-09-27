@@ -18,6 +18,9 @@ class Main {
     int randomNum = r.nextInt(limit) + 1;
 
   }
-  public static void playGame()
+  public static void playGame(int limit, int randomNum)
+  {
+    
+  }
 }
 }
