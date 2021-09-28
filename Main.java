@@ -18,7 +18,7 @@ class Main {
     int randomNum = r.nextInt(limit) + 1;
 playGame(limit, randomNum);
 
-
+System.out.println("Thanks for playing!");
 
   }
   static void playGame(int limit, int goal)
