@@ -1,7 +1,7 @@
 /*
 Mini Project 1
-Partners: Cal Gilson, Ayaan Ajmal,
-Date: 9/26/21
+Partners: Cal Gilson, Ayaan Ajmal, Mahathi Venkatesh, Carson Hurst
+Date: 9/28/21
 */
 
 import java.util.Random;
